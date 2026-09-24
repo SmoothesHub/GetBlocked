@@ -1,4 +1,4 @@
-# GetBlocked
+<h1 align="center">GetBlocked</h1>
 
 <p align="center">
   <a href="https://github.com/SmoothesHub/GetBlocked/releases/latest">
